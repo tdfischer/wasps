@@ -1,0 +1,27 @@
+{
+  "name": "wasps",
+  "version": "1.0.0",
+  "description": "A metaphor for computering",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows --spec tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tdfischer/wasps"
+  },
+  "keywords": [
+    "wasps",
+    "computering",
+    "why"
+  ],
+  "author": "Torrie Fischer <tdfischer@hackerbots.net>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tdfischer/wasps/issues"
+  },
+  "homepage": "https://github.com/tdfischer/wasps",
+  "dependencies": {
+    "vows": "^0.8.1"
+  }
+}
